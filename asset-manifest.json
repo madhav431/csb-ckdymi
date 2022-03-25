@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://madhav431.github.io/csb-ckdymi/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://madhav431.github.io/csb-ckdymi/static/js/main.1c342e9c.chunk.js",
+    "main.js.map": "https://madhav431.github.io/csb-ckdymi/static/js/main.1c342e9c.chunk.js.map",
+    "runtime-main.js": "https://madhav431.github.io/csb-ckdymi/static/js/runtime-main.cdd1eda4.js",
+    "runtime-main.js.map": "https://madhav431.github.io/csb-ckdymi/static/js/runtime-main.cdd1eda4.js.map",
+    "static/js/2.c65d5156.chunk.js": "https://madhav431.github.io/csb-ckdymi/static/js/2.c65d5156.chunk.js",
+    "static/js/2.c65d5156.chunk.js.map": "https://madhav431.github.io/csb-ckdymi/static/js/2.c65d5156.chunk.js.map",
+    "index.html": "https://madhav431.github.io/csb-ckdymi/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://madhav431.github.io/csb-ckdymi/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c65d5156.chunk.js.LICENSE.txt": "https://madhav431.github.io/csb-ckdymi/static/js/2.c65d5156.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdd1eda4.js",
+    "static/js/2.c65d5156.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1c342e9c.chunk.js"
+  ]
+}
